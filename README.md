@@ -6,7 +6,7 @@
     width="190px">
 
 - 💬 Ask me about Anything *Tech* Related
-- 🌱 Current Work on Flutter.
+- 🌱 Currentlly Work on Flutter.
 - 🎊 I’m looking to collaborate on Projects.
 
 <h1></h1>
